@@ -1,4 +1,4 @@
-//package org.apache.nifi.processors.daxoperation;
+package org.apache.nifi.processors.daxoperation;
 //
 //import com.mongodb.MongoClient;
 //import org.apache.nifi.controller.MongoClientService;
@@ -22,7 +22,7 @@
 //import static org.mockito.ArgumentMatchers.any;
 //import static org.mockito.Mockito.*;
 //
-//public class TestPharmacyPrescriptionProcessor {
+public class TestPharmacyPrescriptionProcessor {
 //    private TestRunner testRunner;
 //    private static final Charset charset = StandardCharsets.UTF_8;
 //
@@ -393,5 +393,5 @@
 //                "   \"ItemDetails\":[\n" +
 //                "       ]\n" +
 //                "}";
-//    }
+    }
 //}

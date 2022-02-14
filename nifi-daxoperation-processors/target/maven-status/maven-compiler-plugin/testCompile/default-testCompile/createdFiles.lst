@@ -1,3 +1,4 @@
 org/apache/nifi/processors/daxoperation/TestDownloadFileProcessor.class
+org/apache/nifi/processors/daxoperation/TestPharmacyPrescriptionProcessor.class
 GMTIssueTesting.class
 org/apache/nifi/processors/daxoperation/TestPatientProcessor.class

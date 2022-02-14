@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nifi-daxoperation-nar" />
+        <module name="nifi-controller" />
+        <module name="nifi-controller-api" />
+        <module name="nifi-daxoperation-processors" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="daxoperation" target="11" />
+      <module name="nifi-controller" target="11" />
+      <module name="nifi-controller-api" target="11" />
+      <module name="nifi-daxoperation-nar" target="11" />
+      <module name="nifi-daxoperation-processors" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
